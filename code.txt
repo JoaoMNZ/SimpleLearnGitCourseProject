@@ -17,5 +17,7 @@
 	
 	}
 	
-	Code simulation V 0.0.2
+	Code simulation V 0.0.2 
+	
+	bug fix simulation
 */
